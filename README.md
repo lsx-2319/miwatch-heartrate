@@ -25,11 +25,10 @@
 - 支持蓝牙4.0+的电脑
 - 小米手表s4或其他支持标准心率服务的蓝牙设备
 
-## 安装依赖
-
-```bash
-pip install tkinter bleak Pillow numpy asyncio
-
 ## 实际运行效果
-![alt text](img/image-1.png)
-![alt text](img/image.png)
+
+![心率监测小部件运行界面](img/image-1.png)
+应用主界面展示心率数值和状态指示
+
+![心率曲线显示效果](img/image.png)
+底部心率变化趋势图
